@@ -1,0 +1,12 @@
+android/app/
+android/build/
+android/.cxx/
+android/.gradle/
+ios/Audio.xcodeproj/
+ios/Audio.xcworkspace/
+ios/Pods/
+ios/build/
+node_modules/
+vendor/
+__tests__/
+*.xcuserdata
