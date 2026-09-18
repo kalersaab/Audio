@@ -71,5 +71,10 @@
   },
   "engines": {
     "node": ">= 22.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalersaab/Audio.git"
+  },
+  "keywords": ["react","reactnativeaudio", "audio", "sound", "sound-api"]
 }
